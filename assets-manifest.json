@@ -1,0 +1,15 @@
+{
+  "game_id": "ha-giang-pedal-odyssey",
+  "visual_style": "Stylized 3D Vietnamese highland cycling adventure",
+  "target": "standalone file:// HTML",
+  "assets": [
+    {"role":"player_bicycle","path":"/mnt/e/ha-giang-pedal-odyssey/assets/models/bicycle.glb","kind":"vehicle","animations_required":[],"license":"local inventory provenance; verify original license before commercial release"},
+    {"role":"player_child","path":"/mnt/e/ha-giang-pedal-odyssey/assets/models/hero_character.glb","kind":"character","animations_required":["idle","walk","jump"],"license":"local inventory provenance; verify original license before commercial release"},
+    {"role":"forest_cluster","path":"/mnt/e/ha-giang-pedal-odyssey/assets/models/forest_trees.glb","kind":"environment","animations_required":[],"license":"local inventory provenance; verify original license before commercial release"},
+    {"role":"vietnamese_village_house","path":"/mnt/e/ha-giang-pedal-odyssey/assets/models/viet_house.glb","kind":"landmark","animations_required":[],"license":"local inventory provenance; verify original license before commercial release"},
+    {"role":"karst_cliff","path":"/mnt/e/ha-giang-pedal-odyssey/assets/models/cliff_rock.glb","kind":"mountain","animations_required":[],"license":"local inventory provenance; verify original license before commercial release"},
+    {"role":"tall_rock","path":"/mnt/e/ha-giang-pedal-odyssey/assets/models/rock_tall.glb","kind":"mountain","animations_required":[],"license":"local inventory provenance; verify original license before commercial release"},
+    {"role":"pine_tree","path":"/mnt/e/ha-giang-pedal-odyssey/assets/models/pine_tree.glb","kind":"foliage","animations_required":[],"license":"local inventory provenance; verify original license before commercial release"},
+    {"role":"mountain_flower","path":"/mnt/e/ha-giang-pedal-odyssey/assets/models/mountain_flower.glb","kind":"foliage","animations_required":[],"license":"local inventory provenance; verify original license before commercial release"}
+  ]
+}
